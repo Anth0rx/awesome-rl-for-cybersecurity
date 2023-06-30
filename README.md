@@ -518,6 +518,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) A Reinforcement Learning Approach to Undetectable Attacks against Automatic Generation Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159364)
+* [(2023) Digital Twins for Security Automation](https://ieeexplore.ieee.org/abstract/document/10154288)
 * [(2023) Inroads into Autonomous Network Defence using Explained Reinforcement Learning](https://arxiv.org/pdf/2306.09318v1.pdf)
 * [(2023) Automated Adversary-in-the-Loop Cyber-Physical Defense Planning](https://dl.acm.org/doi/pdf/10.1145/3596222)
 * [(2023) RLAuth: A Risk-based Authentication System using Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10151855)
@@ -828,6 +830,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2000) Next Generation Intrusion Detection: Autonomous Reinforcement Learning of Network Attacks](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/Intrusion-detection/033.pdf)
 
 ### PhD Theses
+* [(2023) Detecting Complex Cyber Attacks Using Decoys with Online Reinforcement Learning](https://scholarworks.utep.edu/open_etd/3878/)
 * [(2022) Anomaly Detection in Competitive Multiplayer Games](https://open.bu.edu/handle/2144/45316)
 * [(2022) Secure Automated and Autonomous Systems](https://escholarship.org/content/qt7vt506c3/qt7vt506c3.pdf)
 * [(2014) Distributed Reinforcement Learning for Network Intrusion Response](https://etheses.whiterose.ac.uk/8109/1/phd-thesis-malialis.pdf)
@@ -870,6 +873,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2023) Uplifting Cyber Defense](https://www.youtube.com/watch?v=kPAEhLypD3A)
 * [(2023) Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition](https://www.youtube.com/watch?v=LDCgOygjn3k&)
 * [(2023) Reinforcement Learning for Autonomous Cyber Defense](https://www.youtube.com/watch?v=PcqeG5_A4tE)
 * [(2023) Digital Twins and Reinforcement Learning for Security Automation](https://www.youtube.com/watch?v=Gi-_KSNYVCk&)
@@ -940,6 +944,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 Contributions are very welcome. Please use Github issues and pull requests.
 
 ### List of Contributors
+
+Thanks for all your contributions and keeping this project up-to-date.
 
 <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Limmen/awesome-rl-for-cybersecurity" />
